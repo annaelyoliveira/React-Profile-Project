@@ -4,7 +4,7 @@ Desenvolvimento de card de perfil para treinar os conhecimentos sobre React
 
 ## ✨ Demonstração
 
-![Demonstração do Card de Perfil](./assets/demo.png)
+![Demonstração do Card de Perfil](src/assets/demo.png)
 
 
 ## 🖥️ Tecnologias usadas
