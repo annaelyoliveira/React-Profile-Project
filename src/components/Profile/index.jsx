@@ -10,7 +10,6 @@ export default function Profile(props) {
       <Title>
         <span>Name: </span>
         {props.name}
-        <button>Follow</button>
       </Title>
       <ProfileSection>{props.bio}</ProfileSection>
       <ProfileSection>{props.phone}</ProfileSection>
